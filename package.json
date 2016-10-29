@@ -1,0 +1,15 @@
+{
+  "name": "linter-atom-issue-27",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "textlint text.txt"
+  },
+  "author": "azu",
+  "license": "MIT",
+  "devDependencies": {
+    "textlint": "^7.1.2",
+    "textlint-rule-preset-japanese": "^1.3.3"
+  }
+}
