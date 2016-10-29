@@ -2,5 +2,7 @@
 
 ## Usage
 
-  npm install
-  atom .
+``
+npm install
+atom .
+```
